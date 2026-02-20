@@ -4,6 +4,8 @@ A collection of **14 developer tools** in one place — free, fast, and open sou
 
 Built with React 18, Vite, Tailwind CSS v4, and Express 5.
 
+![DevTools Hub](devtools-hub.png)
+
 ## Tools
 
 | Tool | Description | Type |
